@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="100"
-   viewBox="0 0 52.916665 26.458334"
+   width="160"
+   height="160"
+   viewBox="0 0 42.333332 42.333334"
    version="1.1"
-   id="svg8"
+   id="svg6000"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="ARstudio.svg">
   <defs
-     id="defs2" />
+     id="defs5994" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,27 +26,34 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="104.41932"
-     inkscape:cy="42.133243"
+     inkscape:cx="-43.706235"
+     inkscape:cy="130.84691"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1366"
      inkscape:window-height="674"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     units="px"
+     inkscape:snap-grids="false"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     units="px">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-midpoints="false"
+     inkscape:object-nodes="true"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid4485" />
+       id="grid6903" />
   </sodipodi:namedview>
   <metadata
-     id="metadata5">
+     id="metadata5997">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -61,55 +68,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-270.54165)">
-    <g
-       id="g4552">
-      <g
-         id="text4883"
-         style="font-style:normal;font-weight:normal;font-size:5.47397184px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         aria-label="ARSTUDIO">
-        <path
-           id="path4525"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 15.047429,287.13275 h 0.42697 l 0.591188,-1.36302 h 1.883047 l 0.585715,1.36302 h 0.443392 l -1.740724,-4.04526 h -0.454339 z m 1.17143,-1.72977 0.793726,-1.85568 0.777304,1.85568 z" />
-        <path
-           id="path4527"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 22.372886,285.62194 c 0.777304,-0.0821 1.193326,-0.51456 1.193326,-1.23165 0,-0.50908 -0.213485,-0.89226 -0.607611,-1.10574 -0.251803,-0.13685 -0.602137,-0.19706 -1.133112,-0.19706 h -1.001737 v 4.04526 h 0.405074 v -3.67851 h 0.569293 c 0.42697,0 0.711616,0.0438 0.930575,0.1478 0.273699,0.13137 0.42697,0.40507 0.42697,0.77183 0,0.45981 -0.208011,0.74446 -0.613085,0.85394 -0.191589,0.0493 -0.45434,0.0712 -0.903205,0.0712 l 1.363019,1.83378 h 0.503605 z" />
-        <path
-           id="path4529"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 25.221661,285.99964 c 0.03832,0.72804 0.536449,1.20427 1.264487,1.20427 0.700669,0 1.220696,-0.50908 1.220696,-1.1988 0,-0.3558 -0.147797,-0.6733 -0.405074,-0.86488 -0.164219,-0.12043 -0.333912,-0.19707 -0.749934,-0.32297 -0.366756,-0.10948 -0.487183,-0.15874 -0.596663,-0.2518 -0.114953,-0.10401 -0.191589,-0.28465 -0.191589,-0.47076 0,-0.40508 0.295595,-0.70615 0.700668,-0.70615 0.410548,0 0.695195,0.28465 0.722565,0.72257 h 0.421496 c -0.01642,-0.65688 -0.470762,-1.0948 -1.133113,-1.0948 -0.651402,0 -1.122164,0.45982 -1.122164,1.08933 0,0.27917 0.104006,0.54739 0.284647,0.71709 0.158745,0.15327 0.284646,0.21348 0.755408,0.3558 0.31749,0.0985 0.492657,0.17517 0.624033,0.26823 0.180641,0.1259 0.279172,0.33391 0.279172,0.58024 0,0.46529 -0.339386,0.80467 -0.7992,0.80467 -0.257276,0 -0.503605,-0.11495 -0.651402,-0.30107 -0.114954,-0.14232 -0.16422,-0.27917 -0.191589,-0.53097 z" />
-        <path
-           id="path4531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 30.15944,287.13275 h 0.405074 v -3.67851 h 0.925101 v -0.36675 h -2.255276 v 0.36675 h 0.925101 z" />
-        <path
-           id="path4533"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 33.311249,283.08749 v 2.5235 c 0,0.52002 0.08211,0.82657 0.284647,1.09479 0.240855,0.31202 0.645929,0.49813 1.08932,0.49813 0.448866,0 0.85394,-0.18611 1.094795,-0.49813 0.202537,-0.26822 0.284646,-0.57477 0.284646,-1.09479 v -2.5235 h -0.405074 v 2.5235 c 0,0.36675 -0.06021,0.64593 -0.186115,0.83751 -0.153271,0.23539 -0.454339,0.38318 -0.782778,0.38318 -0.333912,0 -0.634981,-0.14779 -0.788252,-0.38318 -0.125901,-0.19158 -0.186115,-0.47076 -0.186115,-0.83751 v -2.5235 z" />
-        <path
-           id="path4535"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 38.261345,287.13275 h 1.089321 c 0.607611,0 1.03458,-0.0931 1.390389,-0.30107 0.613085,-0.36128 0.936049,-0.95247 0.936049,-1.70788 0,-0.76088 -0.317491,-1.36302 -0.919627,-1.71882 -0.383178,-0.22991 -0.810148,-0.31749 -1.54366,-0.31749 h -0.952472 z m 0.405074,-0.36675 v -3.31176 h 0.563819 c 0.613085,0 0.996263,0.0766 1.302806,0.26275 0.465287,0.27918 0.733512,0.78825 0.733512,1.39039 0,0.53098 -0.208011,0.99626 -0.580241,1.29733 -0.322964,0.25728 -0.738986,0.36129 -1.456077,0.36129 z" />
-        <path
-           id="path4537"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 43.703244,287.13275 h 0.405074 v -4.04526 h -0.405074 z" />
-        <path
-           id="path4539"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:1.36849296px;stroke-width:0.26458332"
-           d="m 48.277088,283.01632 c -1.160482,0 -2.140323,0.947 -2.140323,2.06917 0,1.1769 0.952471,2.11842 2.140323,2.11842 1.17143,0 2.134849,-0.94699 2.134849,-2.09105 0,-1.15501 -0.963419,-2.09654 -2.134849,-2.09654 z m 0,0.37223 c 0.941523,0 1.724301,0.78278 1.724301,1.72978 0,0.93605 -0.782778,1.71335 -1.724301,1.71335 -0.952471,0 -1.729775,-0.7773 -1.729775,-1.73525 0,-0.9251 0.793726,-1.70788 1.729775,-1.70788 z" />
-      </g>
-      <path
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="m 1.6005818,277.91219 6.0866467,10.65205 H 1.6005818 v 1.06521 H 9.5228345 L 3.4361878,278.97739 h 5.1348303 1.4036996 c 0.8923853,0 1.5948933,0.70303 1.5948933,1.59781 0,0.89479 -0.702508,1.59781 -1.5948933,1.59781 H 7.6264806 l 4.1072814,7.18806 0.153329,0.26838 h 1.226859 l -0.455209,-0.79682 -0.924979,-1.61883 -2.2716754,-3.97559 h 0.5126311 c 1.4648703,0 2.6601013,-1.1973 2.6601013,-2.66301 0,-1.4657 -1.195231,-2.66301 -2.6601013,-2.66301 H 8.5710181 Z"
-         id="path4885"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccssscccccccssscc"
-         inkscape:export-filename="/home/trvt/path4600.png"
-         inkscape:export-xdpi="149.66707"
-         inkscape:export-ydpi="149.66707" />
-    </g>
+     transform="translate(0,-254.66665)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 11.148166,257.52487 v 5.2e-4 l 7.138562,13.04416 h 3.023609 l -5.686479,-10.39109 h 5.06222 1.326539 c 3.61767,0 6.52156,2.90425 6.52156,6.52208 0,3.6178 -2.90373,6.52208 -6.52156,6.52208 H 11.146606 v 2.65255 7.89358 h 2.653081 v -7.89358 h 7.39076 l 8.5447,15.61404 1.45158,2.65255 h 3.02411 l -9.99631,-18.26659 c -0.0443,-0.079 -0.088,-0.15989 -0.13176,-0.23978 4.06009,-0.94399 7.10385,-4.59542 7.10396,-8.93485 0,-5.05148 -4.12303,-9.17515 -9.17464,-9.17515 h -1.326539 v -5.2e-4 z"
+       id="path5252"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/media/trvt/DATA/SETTING/AR/arstudio-favicon.png"
+       inkscape:export-xdpi="24.525202"
+       inkscape:export-ydpi="24.525202" />
   </g>
 </svg>
