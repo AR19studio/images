@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,51 +7,54 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="160"
-   height="160"
-   viewBox="0 0 42.333332 42.333334"
+   sodipodi:docname="armedia.svg"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   id="svg8"
    version="1.1"
-   id="svg6000"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="armedia.svg">
+   viewBox="0 0 65.263891 65.263889"
+   height="185pt"
+   width="185pt">
   <defs
-     id="defs5994" />
+     id="defs2">
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="false"
+       flexible="false"
+       chamfer_steps="1"
+       radius="10"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,1.5275726,0,1 @ F,0,0,1,0,1.5275726,0,1 @ F,0,0,1,0,1.5275726,0,1 @ F,0,0,1,0,1.5275726,0,1 @ F,0,0,1,0,1.5275726,0,1 @ F,0,0,1,0,1.5275726,0,1"
+       is_visible="true"
+       id="path-effect18"
+       effect="fillet_chamfer" />
+  </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-31.350354"
-     inkscape:cy="95.715957"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="674"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="false"
-     inkscape:bbox-nodes="false"
-     units="px"
-     inkscape:snap-grids="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="true"
-     inkscape:snap-midpoints="false"
-     inkscape:object-nodes="true"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid6903" />
-  </sodipodi:namedview>
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="674"
+     inkscape:window-width="1366"
+     units="pt"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="85.854787"
+     inkscape:cx="-30.653876"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
-     id="metadata5997">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -65,17 +66,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-254.66665)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 11.148166,257.52487 v 5.2e-4 l 7.138562,13.04416 h 3.023609 l -5.686479,-10.39109 h 5.06222 1.326539 c 3.61767,0 6.52156,2.90425 6.52156,6.52208 0,3.6178 -2.90373,6.52208 -6.52156,6.52208 H 11.146606 v 2.65255 7.89358 h 2.653081 v -7.89358 h 7.39076 l 8.5447,15.61404 1.45158,2.65255 h 3.02411 l -9.99631,-18.26659 c -0.0443,-0.079 -0.088,-0.15989 -0.13176,-0.23978 4.06009,-0.94399 7.10385,-4.59542 7.10396,-8.93485 0,-5.05148 -4.12303,-9.17515 -9.17464,-9.17515 h -1.326539 v -5.2e-4 z"
-       id="path5252"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/media/trvt/DATA/SETTING/AR/arstudio-favicon.png"
-       inkscape:export-xdpi="24.525202"
-       inkscape:export-ydpi="24.525202" />
+       d="m 32.653675,0.44882578 a 2.6183063,2.6183063 0 0 0 -1.33114,0.35081 L 5.7188767,15.581816 a 2.6183063,2.6183063 0 0 0 -1.309153,2.268 v 29.56488 a 2.6183063,2.6183063 0 0 0 1.309153,2.26749 l 25.6036583,14.78218 a 2.6183063,2.6183063 0 0 0 2.61831,0 l 25.60417,-14.78218 a 2.6183063,2.6183063 0 0 0 1.30915,-2.26749 v -29.56488 a 2.6183063,2.6183063 0 0 0 -1.30915,-2.268 L 33.940845,0.79963578 a 2.6183063,2.6183063 0 0 0 -1.28717,-0.35081 z M 22.268414,16.085026 h 9.438181 v 5.2e-4 h 1.31273 c 4.99905,0 9.07918,4.08076 9.07918,9.07969 -1.1e-4,4.29429 -3.0122,7.90774 -7.03005,8.8419 0.0433,0.0791 0.0866,0.15911 0.1304,0.23729 l 9.89229,18.07654 h -2.99264 l -1.43649,-2.62496 -8.4558,-15.45158 h -7.313868 v 7.81145 h -2.625468 v -7.81145 -2.62496 h 10.752956 c 3.58019,0 6.45372,-2.87408 6.45372,-6.45423 0,-3.5802 -2.87369,-6.45422 -6.45372,-6.45422 h -1.31273 -5.009559 l 5.627309,10.28298 h -2.99213 l -7.064311,-12.90845 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:10.2;stroke-linecap:square;stroke-opacity:0.142857"
+       id="path7283" />
   </g>
 </svg>
