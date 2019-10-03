@@ -17,6 +17,7 @@
   <defs
      id="defs3155" />
   <sodipodi:namedview
+     inkscape:snap-page="true"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -52,6 +53,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       y="0"
+       x="0"
+       height="123.03125"
+       width="123.03125"
+       id="rect4641"
+       style="fill:#333333;stroke:none;stroke-width:1.9;stroke-linecap:square" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:10.2;stroke-linecap:square;stroke-opacity:0.142857;stop-opacity:1"
