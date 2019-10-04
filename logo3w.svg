@@ -7,36 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="465"
-   height="465"
-   viewBox="0 0 123.03124 123.03125"
-   version="1.1"
-   id="svg3161"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
    sodipodi:docname="logo3w.svg"
-   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)">
+   id="svg3161"
+   version="1.1"
+   viewBox="0 0 123.03124 123.03125"
+   height="465"
+   width="465">
   <defs
      id="defs3155" />
   <sodipodi:namedview
-     inkscape:snap-page="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="278.06124"
-     inkscape:cy="235.93373"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="685"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     units="px"
      inkscape:window-maximized="1"
-     units="px" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="685"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="331.42857"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata3158">
     <rdf:RDF>
@@ -45,25 +45,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       y="0"
-       x="0"
-       height="123.03125"
-       width="123.03125"
-       id="rect4641"
-       style="fill:#333333;stroke:none;stroke-width:1.9;stroke-linecap:square" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:10.2;stroke-linecap:square;stroke-opacity:0.142857;stop-opacity:1"
-       d="m 28.14059,14.087785 h 31.05429 c 13.91656,0 25.30906,11.39244 25.30906,25.3092 0,10.68106 -6.7132,19.87176 -16.12565,23.57108 l 19.50566,33.78336 h -0.0335 l 7.04021,12.192035 H 86.97443 A 7.101181,7.101181 0 0 1 80.8253,105.39265 L 69.99386,86.634515 h 0.0335 L 57.36929,64.711275 H 38.5444 v 21.63597 h -3.30245 a 7.101181,7.101181 0 0 1 -7.10136,-7.10167 v -24.93952 h 31.05429 1.36183 v -0.0629 c 7.6437,-0.67855 13.54373,-7.01213 13.54373,-14.84643 0,-8.29403 -6.61153,-14.90549 -14.90556,-14.90549 H 46.16537 l 14.39134,24.93325 h -7.90985 a 7.101181,7.101181 0 0 1 -6.1488,-3.54982 z"
-       id="path4515" />
+     inkscape:label="Layer 1">
+    <g
+       id="g842">
+      <rect
+         y="0"
+         x="0"
+         height="123.03125"
+         width="123.03125"
+         id="rect4641"
+         style="fill:none;stroke:none;stroke-width:1.9;stroke-linecap:square" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:10.2;stroke-linecap:square;stroke-opacity:0.142857;stop-opacity:1"
+         d="m 28.14059,14.087785 h 31.05429 c 13.91656,0 25.30906,11.39244 25.30906,25.3092 0,10.68106 -6.7132,19.87176 -16.12565,23.57108 l 19.50566,33.78336 h -0.0335 l 7.04021,12.192035 H 86.97443 A 7.101181,7.101181 0 0 1 80.8253,105.39265 L 69.99386,86.634515 h 0.0335 L 57.36929,64.711275 H 38.5444 v 21.63597 h -3.30245 a 7.101181,7.101181 0 0 1 -7.10136,-7.10167 v -24.93952 h 31.05429 1.36183 v -0.0629 c 7.6437,-0.67855 13.54373,-7.01213 13.54373,-14.84643 0,-8.29403 -6.61153,-14.90549 -14.90556,-14.90549 H 46.16537 l 14.39134,24.93325 h -7.90985 a 7.101181,7.101181 0 0 1 -6.1488,-3.54982 z"
+         id="path4515" />
+    </g>
   </g>
 </svg>
